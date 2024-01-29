@@ -1,4 +1,4 @@
-# Hemendra Rana
-Building exceptional teams, delivering innovative software
+# Hawa Mahal
+Built in 1799, Hawa Mahal, the palace of winds, stands in the center of the city of Jaipur - the Pink City. 
 
-Seasoned software executive with 15+ years of experience in driving growth, innovation, and execution. I specialize in building, leading, and mentoring software engineering teams to architect, design, build, deploy, and market new technologies. I am passionate about defining technology strategy and building world-class products that provide a great customer experience.
+It is build from red and pink sandstone. It was built by the Maharaja Sawai Pratap Singh, grandson of Maharaja Sawai Jai Singh, the founder of the city of Jhunjhunu in the state of Rajasthan. He was so inspired by the unique structure of Khetri Mahal that he built this grand and historical palace.
